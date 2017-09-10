@@ -9,3 +9,6 @@ Due to limited credentials of not being a government employee, program organiser
 ## Members of the team 'Developers Next Door' (aka DND)
 ### Mayank Gupta (Team Leader)
 ##### Github Profile: https://github.com/techfreakworm
+
+### Vipul Goyal (Team Member)
+##### Github Profile: https://github.com/vipul-goyal
